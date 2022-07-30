@@ -5,7 +5,7 @@
     "baseUrl": "./",
     "types": [
       "jasmine",
-      "node"
+      "node", 
     ]
   },
   "files": [
